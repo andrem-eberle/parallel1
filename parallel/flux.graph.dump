@@ -1,0 +1,23 @@
+ADDR: 11 INST SIZE: 3
+INBOUND FROM AE (is loop? no) 
+ADDR: 1A INST SIZE: 3
+INBOUND FROM F (is loop? no) 
+INBOUND FROM 17 (is loop? no) 
+ADDR: 42 INST SIZE: 3
+INBOUND FROM AC (is loop? no) 
+ADDR: 4B INST SIZE: 3
+INBOUND FROM 40 (is loop? no) 
+INBOUND FROM 48 (is loop? no) 
+ADDR: 53 INST SIZE: 7
+INBOUND FROM 51 (is loop? no) 
+ADDR: 5C INST SIZE: 3
+INBOUND FROM AA (is loop? no) 
+ADDR: 65 INST SIZE: 3
+INBOUND FROM 5A (is loop? no) 
+INBOUND FROM 62 (is loop? no) 
+ADDR: 6D INST SIZE: 3
+INBOUND FROM 6B (is loop? no) 
+ADDR: AC INST SIZE: 2
+INBOUND FROM 6B (is loop? no) 
+ADDR: AE INST SIZE: 2
+INBOUND FROM 51 (is loop? no) 
